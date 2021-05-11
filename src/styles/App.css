@@ -3,7 +3,6 @@ h1 {
     text-align: center;
     }
     
-
 button{
     color: #27aedb;
     text-align: center;
@@ -13,4 +12,9 @@ button{
 
 .bg-pink{
 	background-color:pink;
+}
+
+.info{
+    border: solid black 1px;
+    margin: 20px 20px;
 }
